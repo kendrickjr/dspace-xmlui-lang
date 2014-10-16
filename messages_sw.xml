@@ -288,7 +288,7 @@
         <message key="xmlui.ArtifactBrowser.RestrictedItem.para_item_restricted">Hauna ruhusa ya kukiona wasiliana na watawala kama unaswali.</message>
         
 	<!-- Authentication messages used at the top of the login page:  -->
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.auth_header">The item is restricted</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.auth_header">Unachojaribu kukipata kimezuiliwa</message>
 	<message key="xmlui.ArtifactBrowser.RestrictedItem.auth_message">Unacho jaribu kukipata kimezuiliwa. Tafadhari ingia chini kukipata.</message>
 
     <message key="xmlui.ArtifactBrowser.StatisticsViewer.choose_month">Ripoti ya wiki</message>
@@ -298,7 +298,7 @@
     <message key="xmlui.ArtifactBrowser.StatisticsViewer.no_report.text">Kwa sasa hamna ripoti inayo patikana kwa huduma hii.  Tafadhali angalia tena badae.</message>
 
     <!-- Authentication messages used for bitstream authentication -->
-	<message key="xmlui.BitstreamReader.auth_header">File restricted</message>
+	<message key="xmlui.BitstreamReader.auth_header">Faili limezuiliwa</message>
 	<message key="xmlui.BitstreamReader.auth_message">The file you are attempting to access is a restricted file and requires credentials to view. Please login below to access the file.</message>
 
 	<!-- Export Archive download messages -->
