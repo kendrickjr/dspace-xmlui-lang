@@ -53,7 +53,7 @@
 	   The "utils" non-aspect
        -->
     <message key="xmlui.utils.AuthenticationUtil.onlyAdmins">Ni watawala tu wanaweza kuingia kwenye kitumio kingine.</message>
-    <message key="xmlui.utils.AuthenticationUtil.onlyAuthenticatedAdmins">Only authenticated users who are administrators may assume the login as another user.</message>
+    <message key="xmlui.utils.AuthenticationUtil.onlyAuthenticatedAdmins">Waliothibitishwa na watawala ndo wanaweza kuingia kama watumiaji wengine.</message>
     <message key="xmlui.utils.AuthenticationUtil.notAnotherAdmin">Hauwezi kuingia kama si mtawala.</message>
 
 	<!--
@@ -91,7 +91,7 @@
 	<message key="xmlui.ArtifactBrowser.AbstractSearch.head2">Swali lako lina lingana na jumuhia</message>
 	<message key="xmlui.ArtifactBrowser.AbstractSearch.head3">hina husiana na swali lako</message>
 	<message key="xmlui.ArtifactBrowser.AbstractSearch.no_results">Kitafutwacho hakina majibu.</message>
-	<message key="xmlui.ArtifactBrowser.AbstractSearch.all_of_dspace">Dispesi zote</message>
+	<message key="xmlui.ArtifactBrowser.AbstractSearch.all_of_dspace">Zote</message>
 
    <message key="xmlui.ArtifactBrowser.AbstractSearch.sort_by.title">jina</message>
    <message key="xmlui.ArtifactBrowser.AbstractSearch.sort_by.dateissued">tarehe ya tukio</message>
@@ -639,12 +639,12 @@
 	<message key="xmlui.Submission.Submissions.status_0">iliyowasiliswa</message>
 	<message key="xmlui.Submission.Submissions.status_1">Awaiting reviewer's attention</message>
 	<message key="xmlui.Submission.Submissions.status_2">Uwasilishaji umeanza kupitiwa</message>
-	<message key="xmlui.Submission.Submissions.status_3">Awaiting editor's attention</message>
+	<message key="xmlui.Submission.Submissions.status_3">Inasubiri Mhariri</message>
 	<message key="xmlui.Submission.Submissions.status_4">Uwasilishaji umeanza kufanyiwa malekebisho</message>
 	<message key="xmlui.Submission.Submissions.status_5">Awaiting final editor's attention</message>
 	<message key="xmlui.Submission.Submissions.status_6">Uwasilishaji umeanza kufanyiwa malekebisho</message>
 	<message key="xmlui.Submission.Submissions.status_7">Uwasilishaji Umefanikiwa</message>
-	<message key="xmlui.Submission.Submissions.status_unknown">Unknown state</message>
+	<message key="xmlui.Submission.Submissions.status_unknown">haijulikani</message>
         <!-- Same transformer, completed submissions section -->
         <message key="xmlui.Submission.Submissions.completed.head">Uwasilishaji Umefanikiwa</message>
         <message key="xmlui.Submission.Submissions.completed.info">These are your completed submissions which have been accepted into DSpace.</message>
