@@ -9,6 +9,15 @@
 
 -->
 <catalogue xml:lang="sw" xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
+	
+	
+	<!--
+		Swahili Translation By
+		Deogratus Daniel
+		System Librarian/Assistant Lecturer - Mzumbe University - Tanzania - East Africa
+		Phone: +255768 021 321
+		email: ddeogratus@gmail.com
+	-->
 
 	<!--
 		The format used by all keys is as follows
@@ -2344,7 +2353,7 @@
     <message key="xmlui.aspect.versioning.VersionHistoryForm.legend">*chagua version</message>
     <message key="xmlui.aspect.versioning.VersionHistoryForm.delete">Futa Versions</message>
     <message key="xmlui.aspect.versioning.VersionHistoryForm.return">Rudisha</message>
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.collection_admins_only">(collection administrators only)</message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.collection_admins_only">(Kwa Wasimamizi tu)</message>
 
     <message key="xmlui.aspect.versioning.VersionNoticeTransformer.notice.new_version_head">Nukuu</message>
     <message key="xmlui.aspect.versioning.VersionNoticeTransformer.notice.new_version_help">Hii si  version ya mwasho ya item. version ya mwisho inaweza kupatikana kwenye: </message>
