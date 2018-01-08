@@ -128,10 +128,10 @@
    <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_subject">Somo</message>
    <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_description">Maelezo</message>
    <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_relation">Huusiano</message>
-   <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_mime">Mime-Type</message>
+   <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_mime">Aina ya Mime</message>
    <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_other">Mchangiaji Mwingine</message>
    <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_advisor">Mshauri</message>
-   <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_department">Idala</message>
+   <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_department">Idara</message>
 
    <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_ANY">Ujunbe Kamili</message>
    <message key="xmlui.ArtifactBrowser.AdvancedSearch.and">NA</message>
@@ -2302,11 +2302,11 @@
     <message key="xmlui.aspect.versioning.VersionItemForm.submit_update_version">Update Version</message>
     <message key="xmlui.aspect.versioning.VersionItemForm.summary">Sababu ya kuhunda version mpya</message>
 
-    <message key="xmlui.aspect.versioning.VersionUpdateForm.title">Update Version</message>
-    <message key="xmlui.aspect.versioning.VersionUpdateForm.trail">Version</message>
-    <message key="xmlui.aspect.versioning.VersionUpdateForm.head1">Update version of item: {0}</message>
-    <message key="xmlui.aspect.versioning.VersionUpdateForm.submit_version">Version</message>
-    <message key="xmlui.aspect.versioning.VersionUpdateForm.submit_update_version">Update Version</message>
+    <message key="xmlui.aspect.versioning.VersionUpdateForm.title">Rekebisha Toleo</message>
+    <message key="xmlui.aspect.versioning.VersionUpdateForm.trail">Toleo</message>
+    <message key="xmlui.aspect.versioning.VersionUpdateForm.head1">Rekebisha toleo la bidhaa: {0}</message>
+    <message key="xmlui.aspect.versioning.VersionUpdateForm.submit_version">Toleo</message>
+    <message key="xmlui.aspect.versioning.VersionUpdateForm.submit_update_version">Rekebisha Toleo</message>
     <message key="xmlui.aspect.versioning.VersionUpdateForm.summary">Kwa ufupi</message>
 
 
@@ -2314,42 +2314,42 @@
     <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.trail">Thibitisha kufuta</message>
     <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.head1">Thibitisha kufuta(s)</message>
     <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.para1">Ni kweli unataka kufuta versions hii. </message>
-    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.para2">PLEASE NOTE: That by deleting these versions, the associated items will no longer be accessible.</message>
-    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.column1">Version</message>
-    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.column2">Item</message>
-    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.column3">Editor</message>
+    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.para2">TAFADHARI ZINGATIA: Kwa kufuta toleo hili, bidhaa zinazoambatana na hii hazitoweza kupatikana tena.</message>
+    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.column1">Toleo</message>
+    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.column2">Bidhaa</message>
+    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.column3">Mhariri</message>
     <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.column4">Tarehe</message>
     <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.column5">Kwa ufupi</message>
 
 
-    <message key="xmlui.aspect.versioning.RestoreVersionForm.title">Hifadhi Version</message>
-    <message key="xmlui.aspect.versioning.RestoreVersionForm.trail">Hifadhi Version</message>
-    <message key="xmlui.aspect.versioning.RestoreVersionForm.head1">Hifadhi Version</message>
+    <message key="xmlui.aspect.versioning.RestoreVersionForm.title">Hifadhi Toleo</message>
+    <message key="xmlui.aspect.versioning.RestoreVersionForm.trail">Hifadhi Toleo</message>
+    <message key="xmlui.aspect.versioning.RestoreVersionForm.head1">Hifadhi Toleo</message>
     <message key="xmlui.aspect.versioning.RestoreVersionForm.para1">Ni kweli unataka kuifadhi version hii:</message>
-    <message key="xmlui.aspect.versioning.RestoreVersionForm.column1">Version</message>
-    <message key="xmlui.aspect.versioning.RestoreVersionForm.column2">Editor</message>
+    <message key="xmlui.aspect.versioning.RestoreVersionForm.column1">Toleo</message>
+    <message key="xmlui.aspect.versioning.RestoreVersionForm.column2">Mhariri</message>
     <message key="xmlui.aspect.versioning.RestoreVersionForm.column3">Tarehe</message>
     <message key="xmlui.aspect.versioning.RestoreVersionForm.column4">Kwa ufupi</message>
     <message key="xmlui.aspect.versioning.RestoreVersionForm.restore">Hifadhadhi</message>
 
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.head2">Historia ya Version </message>
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.column1">Version</message>
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.column2">Item</message>
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.column3">Editor</message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.head2">Historia ya toleo </message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.column1">Toleo</message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.column2">Bidhaa</message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.column3">mhariri</message>
     <message key="xmlui.aspect.versioning.VersionHistoryForm.column4">Tarehe</message>
     <message key="xmlui.aspect.versioning.VersionHistoryForm.column5">Kwa ufupi</message>
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.column6">Actions</message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.column6">Hatua</message>
     <message key="xmlui.aspect.versioning.VersionHistoryForm.restore">Hifadhi</message>
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.update">Update</message>
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.legend">*chagua version</message>
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.delete">Futa Versions</message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.update">Rekebisha</message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.legend">*chagua Toleo</message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.delete">Futa Toleo</message>
     <message key="xmlui.aspect.versioning.VersionHistoryForm.return">Rudisha</message>
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.collection_admins_only">(collection administrators only)</message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.collection_admins_only">(Wasimamizi wa Koleksheni tu)</message>
 
     <message key="xmlui.aspect.versioning.VersionNoticeTransformer.notice.new_version_head">Nukuu</message>
     <message key="xmlui.aspect.versioning.VersionNoticeTransformer.notice.new_version_help">Hii si  version ya mwasho ya item. version ya mwisho inaweza kupatikana kwenye: </message>
     <message key="xmlui.aspect.versioning.VersionNoticeTransformer.notice.workflow_version_head">Nukuu</message>
-    <message key="xmlui.aspect.versioning.VersionNoticeTransformer.notice.workflow_version_help">A more recent version of this item is in the Workflow.</message>
+    <message key="xmlui.aspect.versioning.VersionNoticeTransformer.notice.workflow_version_help">Toleo jipya lipo njiani.</message>
 
     <!-- End Versioning -->
 </catalogue>
