@@ -35,7 +35,7 @@
 	<message key="xmlui.general.dspace_home">DSpace Mwanzo</message>
 	<message key="xmlui.general.search">Tafuta</message>
 	<message key="xmlui.general.go">Anza</message>
-	<message key="xmlui.general.go_home">Nenda DSpace Mwanzo </message>
+	<message key="xmlui.general.go_home">Nenda Dspace Mwanzo </message>
 	<message key="xmlui.general.save">Hifadhi</message>
 	<message key="xmlui.general.cancel">Sitisha</message>
 	<message key="xmlui.general.return">Rudi</message>
@@ -2295,19 +2295,19 @@
   <message key="xmlui.mobile.browse_title">Kichwa cha habari</message>
   <message key="xmlui.mobile.browse_subject">Somo</message>
   <message key="xmlui.mobile.related_google_scholar">Husiana</message>
-  <message key="xmlui.mobile.items_in_google_scholar">Items in Google Scholar</message>
+  <message key="xmlui.mobile.items_in_google_scholar">Bidhaa Kwenye Google Scholar</message>
   <message key="xmlui.mobile.download">Toa toka Mtandaoni</message>
 
 
     <!-- Versioning -->
-    <message key="xmlui.aspect.versioning.VersioningNavigation.context_create_version">Create version of this item</message>
+    <message key="xmlui.aspect.versioning.VersioningNavigation.context_create_version">Tengeneza toleo jipya la bidhaa hii</message>
     <message key="xmlui.aspect.versioning.VersioningNavigation.context_show_version_history">Onesha historia ya version </message>
 
-    <message key="xmlui.aspect.versioning.VersionItemForm.title">Create Version</message>
-    <message key="xmlui.aspect.versioning.VersionItemForm.trail">Version</message>
-    <message key="xmlui.aspect.versioning.VersionItemForm.head1">Create new version of item: {0}</message>
-    <message key="xmlui.aspect.versioning.VersionItemForm.submit_version">Version</message>
-    <message key="xmlui.aspect.versioning.VersionItemForm.submit_update_version">Update Version</message>
+    <message key="xmlui.aspect.versioning.VersionItemForm.title">Tengeneza Toleo</message>
+    <message key="xmlui.aspect.versioning.VersionItemForm.trail">Toleo</message>
+    <message key="xmlui.aspect.versioning.VersionItemForm.head1">Tengeneza toleo jipya la bidhaa: {0}</message>
+    <message key="xmlui.aspect.versioning.VersionItemForm.submit_version">Toleo</message>
+    <message key="xmlui.aspect.versioning.VersionItemForm.submit_update_version">Sahihisha Toleo</message>
     <message key="xmlui.aspect.versioning.VersionItemForm.summary">Sababu ya kuhunda version mpya</message>
 
     <message key="xmlui.aspect.versioning.VersionUpdateForm.title">Rekebisha Toleo</message>
