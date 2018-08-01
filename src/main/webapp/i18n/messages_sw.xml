@@ -207,9 +207,9 @@
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_authors">Mwandishi wa kitabu</message>
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_dates">Tarehe</message>
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.advanced_search_link">Tafuta Zaidi</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_sub_communities">Sehemu ya jumuhiya ndani ya jumuhia hii</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_sub_communities">Sehemu ya jumuiya, ndani ya jumuhia hii</message>
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_sub_collections">Fungu katika jumuhia hii</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_recent_submissions">Uwasilishaji hivi karibuni</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_recent_submissions">Mpya</message>
 
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.Contact.java -->
@@ -312,16 +312,16 @@
 	<message key="xmlui.ArtifactBrowser.ItemRequestForm.trail">Ombi la kopi ya nakala</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestForm.head">Ombi la kopi ya nakala</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestForm.para1">Ingiza taarifa zifuatazo kupata kopi ya nakala kutoka kwa mtu husika</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail">Your e-mail address</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail_help">This email address is used for sending the document.</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail.error">Address is required</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail">Barua Pepe</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail_help">barua pepe hii itatumika kukutumia chapisho uliloomba.</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail.error">Barua Pepe inahitajika</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestForm.message">Ujumbe</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestForm.message.error">Ujumbe unaitajika</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.files">Files</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.allFiles">All files (of this document) in restricted access.</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.notAllFiles">Only The requested file.</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.files">Mafaili</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.allFiles">Faili zote (Za waraka huu) zilizozuiliwa.</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.notAllFiles">Faili lililoombwa tu.</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterName">Jina</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterName.error">Name is required</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterName.error">Jina Linahitajika</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestForm.submit">Omba kopi</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestSent.java -->
@@ -335,7 +335,7 @@
 	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.trail">Kopi ya nakala imetumwa</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.head">Kopi ya nakala imetumwa</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.para1">KAMA NI MWANDISHI WA NAKALA {0}" tumia kitufe kujibu maombi ya msomaji.</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.para2">This repository will propose an appropriate model reply, which you may edit.</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.para2">Kanzudata hii itapendekeza jibu la mfano, ambayo unaweza kuhariri.</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.send">Tuma kopi ya nakala</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.dontSend">Usitume kopi</message>
 
@@ -396,7 +396,7 @@
 	<!-- org.dspace.app.xmlui.eperson.CannotRegister.java -->
 	<message key="xmlui.EPerson.CannotRegister.title">Usajili haupo</message>
 	<message key="xmlui.EPerson.CannotRegister.head">Usajili haupo</message>
-	<message key="xmlui.EPerson.CannotRegister.para1">The configuration of this DSpace repository does not allow registration in this context. Please contact the <a href="../contact">site administrator</a> with questions or comments.</message>
+	<message key="xmlui.EPerson.CannotRegister.para1">Usanidi wa hifadhi hii ya DSpace hairuhusu usajili katika muktadha huu. Tafadhali wasiliana na <a href="../contact"> msimamizi wa tovuti </a> na maswali au maoni. </ Message>
 
 	<!-- org.dspace.app.xmlui.eperson.EditProfile.java -->
 	<message key="xmlui.EPerson.EditProfile.title_update">Sahihisha taarifa</message>
@@ -410,7 +410,7 @@
 	<message key="xmlui.EPerson.EditProfile.telephone">Namba ya simu</message>
         <message key="xmlui.EPerson.EditProfile.Language">Lugha</message>
 	<message key="xmlui.EPerson.EditProfile.subscriptions">Manunuzi</message>
-	<message key="xmlui.EPerson.EditProfile.subscriptions_help">You may subscribe to collections to receive daily e-mail alerts of new items added. You can subscribe to as many or as few collections as you wish. Another alternative to daily e-mail alerts is to use the RSS feeds available for all collections.</message>
+	<message key="xmlui.EPerson.EditProfile.subscriptions_help">Unaweza kujiunga na makusanyo kupokea tahadhari ya kila siku ya barua pepe ya vitu vipya vinavyoongezwa. Unaweza kujiandikisha kwa makusanyo mengi au chache kama unavyotaka. Mwingine mbadala kwa alerts ya kila siku ya barua pepe ni kutumia RSS feeds inapatikana kwa makusanyo yote.</message>
 	<message key="xmlui.EPerson.EditProfile.email_subscriptions">Barua pepe ya manunuzi</message>
 	<message key="xmlui.EPerson.EditProfile.select_collection">( Chagua kifungu )</message>
 	<message key="xmlui.EPerson.EditProfile.update_password_instructions">Unaweza kuingiza neno la sira hapa chini, na hakiki kwa kuingiza mara nyingine kwenye kisanduki cha pili. Inatakiwa iwe ina elufi zisizo pungua sita.</message>
